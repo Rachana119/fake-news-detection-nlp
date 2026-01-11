@@ -67,19 +67,7 @@ fake-news-detection/
 
 ---
 
-## ⚠️ Important Note
-> This model predicts based on **linguistic patterns** learned from news articles.  
-> It does **not verify factual correctness**.  
-> Best results are obtained using **full-length news articles**.
 
----
-
-## ▶️ How to Run Locally
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/fake-news-detection-nlp.git
-cd fake-news-detection-nlp
 
 ---
 
